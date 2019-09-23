@@ -10,7 +10,7 @@
     "Themes"
   ],
   "publisher": "gokulkrishh",
-  "icon": "https://raw.githubusercontent.com/gokulkrishh/dark-theme-vscode/master/dark-theme.png",
+  "icon": "dark-theme.png",
   "license": "MIT",
   "repository": "https://github.com/gokulkrishh/dark-theme-vscode",
   "contributes": {
