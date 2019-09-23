@@ -1,5 +1,7 @@
 # [Dark Theme](https://marketplace.visualstudio.com/items?itemName=gokulkrishh.dark-theme)
 
+<center><img src="./Screenshot.png" /></center>
+
 ## What's in the folder
 
 - This folder contains all of the files necessary for your color theme extension.
