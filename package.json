@@ -1,21 +1,21 @@
 {
-    "name": "dark-theme",
-    "displayName": "dark-theme",
-    "description": "VSCode dark theme like dark mode.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Theme ",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Theme -color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-theme",
+  "displayName": "dark-theme",
+  "description": "VSCode dark theme like dark mode.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme -color-theme.json"
+      }
+    ]
+  }
 }
