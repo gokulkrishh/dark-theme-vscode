@@ -2,13 +2,15 @@
   "name": "dark-theme",
   "displayName": "dark-theme",
   "description": "VSCode dark theme like dark mode.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.36.0"
   },
   "categories": [
     "Themes"
   ],
+  "publisher": "gokulkrishh",
+  "repository": "https://github.com/gokulkrishh/dark-theme-vscode",
   "contributes": {
     "themes": [
       {
