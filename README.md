@@ -1,4 +1,4 @@
-# Dark Theme VSCode Editor
+# [Dark Theme](https://marketplace.visualstudio.com/items?itemName=gokulkrishh.dark-theme)
 
 ## What's in the folder
 
