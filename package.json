@@ -2,7 +2,7 @@
   "name": "dark-theme",
   "displayName": "dark-theme",
   "description": "VSCode dark theme like dark mode.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.36.0"
   },
