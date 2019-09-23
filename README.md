@@ -1,6 +1,6 @@
 # [Dark Theme](https://marketplace.visualstudio.com/items?itemName=gokulkrishh.dark-theme)
 
-<center><img src="./Screenshot.png" /></center>
+<center><img src="https://raw.githubusercontent.com/gokulkrishh/dark-theme-vscode/master/Screenshot.png" /></center>
 
 ## What's in the folder
 
